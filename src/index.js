@@ -26,6 +26,11 @@ class MyGame extends Phaser.Scene
             loop: -1
         });
     }
+
+    update ()
+    {
+
+    }
 }
 
 const config = {
